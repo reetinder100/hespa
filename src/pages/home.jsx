@@ -82,8 +82,8 @@ function Home() {
               zIndex: 0
             }}
           >
-            <source src="/public/himvid1.mp4" type="video/mp4" />
-            <source src="/public/himvid1.webm" type="video/webm" />
+            <source src="/himalayanEnviornmental/himvid1.mp4" type="video/mp4" />
+            <source src="/himalayanEnviornmental/himvid1.webm" type="video/webm" />
             <img src="/assets/images/hero-fallback.jpg" alt="Himalayan mountains" />
           </video>
         ) : (
